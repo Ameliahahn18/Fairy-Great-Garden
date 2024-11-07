@@ -1,0 +1,52 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+.thetop {
+    background-image: url('Lord.jpg');
+    background-size: cover; 
+    background-position: center; 
+}
+.original-surfer-regular {
+  font-family: <h1> "Original Surfer", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.Kontact {
+    background-image: url('sunshine.png');
+    background-size: 1280; 
+    background-position: center; 
+    background-repeat: ;
+}
+.bg-primary {
+	background-color: #C9D5B5 !important;
+}
+.border {
+	border; 5px solid black;
+}
+.bg-light{
+	background-color: #EFD5C3 !important;
+}
+.bg-dark{
+   background-color: #4E382D !important;
+}
+.text-bg-info {
+    background-color: #8DB580 !important
+}
+.btn-secondary { 
+    background-color: #1B3022 !important;
+
+}
+
+p, li  {font-family: "Merriweather", serif;}
+
+.text-bg-info a {color:  #4E382D }
+
+{
+  max-width: 100%; 
+  margin: 0 auto; 
+}
+.carousel-inner {
+  justify-content: center !important;
+}
+.carousel-item img {
+  width: 100%; 
+  justify-content: center !important;
+}
